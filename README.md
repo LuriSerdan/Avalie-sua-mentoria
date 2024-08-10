@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto sobre formulários" src="https://ibb.co/mbLqr8C" width="100%">
+  <img alt="projeto sobre formulários" src="./images/548_1x_shots_so.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Neste projeto Rocketseat foi feito um formulário com o tema "AVALIE A SUA MENTORIA" para desktop, com o intuito de estudar fundamentos sobre formulários, validações e customização com html e css, onde, foi desafiado a reprodução de um layout pelo figma com os conceitos aprendidos em aula. Espero que gostem!
 
-- [Acesse o projeto finalizado, online](https://luriserdan.github.io/Crie-e-compartilhe-seu-evento/)
+- [Acesse o projeto finalizado, online](https://luriserdan.github.io/Avalie-sua-mentoria/)
 
 ## 🔖 Layout
 
